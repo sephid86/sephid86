@@ -1,5 +1,5 @@
 ## Hi there 👋
-Fulleaf Linux (based on Arch Linux) developer.
+Fulleaf Linux (based on Arch Linux) developer. <br>
 '풀잎 리눅스' 개발자입니다.
 
 I also develop small utilities and occasionally contribute to other projects. <br>
